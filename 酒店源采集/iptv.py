@@ -43,6 +43,7 @@ with open("GAT.txt", "w", encoding="utf-8") as output:
 #"isShowLoginJs"智能KUTV管理
 
 urls = [
+    "https://fofa.info/result?qbase64=ImlzU2hvd0xvZ2luSnMiICYmIHJlZ2lvbj0iSmlsaW4i",  # Jilin (吉林)
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgcG9ydD0iODA4Ig%3D%3D",#808
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgcG9ydD0iODA5NiI%3D",#8096
     "https://fofa.info/result?qbase64=ImlwdHYvbGl2ZS96aF9jbi5qcyIgJiYgcG9ydD0iOTk5OSI%3D",#9999
